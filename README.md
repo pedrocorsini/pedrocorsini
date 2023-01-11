@@ -16,7 +16,8 @@
 
 ## 📫 How to reach me: 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.corsini)
-<img src= "https://img.shields.io/badge/Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white" alt= "Corsini#8726"/>
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedrocorsini)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twiiter.com/corsinipedro)
 
 <!--
 **pedrocorsini/pedrocorsini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
