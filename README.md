@@ -1,5 +1,7 @@
 # Hello there! ✨ My name is Pedro Corsini, also known as Kiri. :)
 
+> I'm a brazilian guy, new to this developer world. Hope you enjoy my little profile. ❤️
+
 ## 🎓 Some of my basic knowledges:
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,js,nodejs,ps,discord,bots)
@@ -14,6 +16,7 @@
 
 ## 📫 How to reach me: 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.corsini)
+<img src= "https://img.shields.io/badge/Discord-8B89CC?style=for-the-badge&logo=Discord&logoColor=white" alt= "Corsini#8726" />
 
 <!--
 **pedrocorsini/pedrocorsini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
