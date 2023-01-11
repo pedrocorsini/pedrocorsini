@@ -14,7 +14,7 @@
 
 ![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)
 
-![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)](https://github.com/pedrocorsini/CorsinhaBot)
 
 ## 📫 How to reach me: 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.corsini)
