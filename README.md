@@ -1,10 +1,19 @@
-### Hi there 👋
+# Hello there! ✨ My name is Pedro Corsini, also known as Kiri. :)
 
-[![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)](https://github.com/iuricode/)
+## 🎓 Some of my basic knowledges:
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocorsini&hide=html&layout=compact=true&theme=dark)](https://github.com/iuricode/)
+![My Skills](https://skillicons.dev/icons?i=vscode,js,nodejs,ps,discord,bots)
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)](https://github.com/iuricode/)
+> Actually I'm new to Visual Studio Code, Node.js, and Discord Bots.
+
+## 📜 My GitHub information:
+
+![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)
+
+![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)
+
+## 📫 How to reach me: 
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.corsini)
 
 <!--
 **pedrocorsini/pedrocorsini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
