@@ -2,6 +2,8 @@
 
 > I'm a brazilian guy, new to this developer world. Hope you enjoy my little profile. ❤️
 
+<img src="background.jpg" min-width="200px" max-width="700px" width="700px" alt="background">
+
 ## 🎓 Some of my basic knowledges:
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,js,nodejs,ps,discord,bots)
