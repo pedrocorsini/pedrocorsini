@@ -12,7 +12,7 @@
 
 ## 📜 My GitHub information:
 
-![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)
+[![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)](https://github.com/pedrocorsini)
 
 [![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)](https://github.com/pedrocorsini/CorsinhaBot)
 
