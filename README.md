@@ -1,8 +1,8 @@
 # Hello there! ✨ I'm Pedro Corsini.
 
-<p> I'm a Computer Engineering student at Federal University of Itajubá, and an active member of [Black Bee Drones](https://www.instagram.com/blackbeedrones) </p>
+I'm a Computer Engineering student at Federal University of Itajubá, and an active member of [Black Bee Drones](https://www.instagram.com/blackbeedrones).
 
-## 🎓 Learning:
+## 🎓 Learning: 
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,c,haskell)
 
