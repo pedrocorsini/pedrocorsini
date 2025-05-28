@@ -4,7 +4,7 @@ I'm a Computer Engineering student at Federal University of Itajubá, and an act
 
 ## 🎓 Learning: 
 
-![My Skills](https://skillicons.dev/icons?i=vscode,c,haskell,c++,python)
+![My Skills](https://skillicons.dev/icons?i=vscode,c,haskell,cpp,python)
 
 ## 📜 My GitHub information:
 
