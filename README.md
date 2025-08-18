@@ -2,15 +2,15 @@
 
 I'm a Computer Engineering student at Federal University of Itajubá, and an active member of [Black Bee Drones](https://www.instagram.com/blackbeedrones).
 
-## 🎓 Learning: 
+## 🎓 Skills: 
 
-![My Skills](https://skillicons.dev/icons?i=vscode,c,haskell,cpp,python)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)
 
 ## 📜 My GitHub information:
 
 [![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)](https://github.com/pedrocorsini)
 
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)](https://github.com/pedrocorsini/CorsinhaBot)
+<!--[![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)](https://github.com/pedrocorsini/CorsinhaBot)-->
 
 ## 📫 Here's how you can reach me: 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/corsiniz__)
