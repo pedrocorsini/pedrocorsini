@@ -14,5 +14,7 @@ I'm a Computer Engineering student at Federal University of Itajubá, and an act
 
 ## 📫 Here's how you can reach me: 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/corsiniz__)
-[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedrocorsini)
+[![image](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://br.linkedin.com/in/pedrocorsini)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twiiter.com/corsini_pedro)
+[![image](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocorsini013@gmail.com)
+
