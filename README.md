@@ -1,20 +1,38 @@
-# Hello there! ✨ I'm Pedro Corsini.
+# 👋 Hello, I'm Pedro Corsini!  
 
-I'm a Computer Engineering student at Federal University of Itajubá, and an active member of [Black Bee Drones](https://www.instagram.com/blackbeedrones).
+🎓 I'm a **Computer Engineering student** at the **Federal University of Itajubá (UNIFEI)**.  
+<img width="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> Active member of [Black Bee Drones](https://www.instagram.com/blackbeedrones).  
+💡 Passionate about **technology, robotics, and embedded systems**.
 
-## 🎓 Skills: 
+---
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)
+## 🛠️ Tech Stack  
 
-## 📜 My GitHub information:
+<div align="center">
 
-[![card](https://github-readme-stats.vercel.app/api?username=pedrocorsini&theme=dark&show_icons=true)](https://github.com/pedrocorsini)
+| Languages | Systems & Tools |
+|-----------|-----------------|
+| [![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/jtc1/sc22/wg14/) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org) [![Vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com)|
 
-<!--[![card](https://github-readme-stats.vercel.app/api/pin/?username=pedrocorsini&repo=corsinhabot&theme=dark)](https://github.com/pedrocorsini/CorsinhaBot)-->
+</div>
 
-## 📫 Here's how you can reach me: 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/corsiniz__)
-[![image](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://br.linkedin.com/in/pedrocorsini)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twiiter.com/corsini_pedro)
-[![image](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocorsini013@gmail.com)
+---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocorsini&show_icons=true&theme=tokyonight)](https://github.com/pedrocorsini)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocorsini&layout=compact&theme=tokyonight)](https://github.com/pedrocorsini)
+
+</div>
+
+---
+
+## 📫 Let's Connect!  
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/corsiniz__) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/pedrocorsini) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedrocorsini013@gmail.com)  
+
+---
+
+✨ *"Be smart, do it autonomously!"*  
