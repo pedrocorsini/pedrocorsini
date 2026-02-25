@@ -22,8 +22,8 @@
 
 <div align="center">
   
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocorsini&show_icons=true&theme=tokyonight)](https://github.com/pedrocorsini)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocorsini&layout=compact&theme=tokyonight)](https://github.com/pedrocorsini)
+[![Pedro's GitHub stats](https://readme-stats-six-ivory-52.vercel.app/api?username=pedrocorsini&show_icons=true&theme=tokyonight)](https://github.com/pedrocorsini)  
+[![Top Langs](https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=pedrocorsini&layout=compact&theme=tokyonight)](https://github.com/pedrocorsini)
 
 </div>
 
