@@ -1,38 +1,68 @@
-# 👋 Hello, I'm Pedro Corsini!  
-
-🎓 I'm a **Computer Engineering student** at the **Federal University of Itajubá (UNIFEI)**.  
-<img width="20" height="20" src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f41d.gif" alt="Bee"> Active member of [Black Bee Drones](https://www.instagram.com/blackbeedrones).  
-💡 Passionate about **technology, robotics, and embedded systems**.
-
----
-
-## 🛠️ Tech Stack  
-
 <div align="center">
 
-| Languages | Systems & Tools |
-|-----------|-----------------|
-| [![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/jtc1/sc22/wg14/) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org) [![Vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com)|
+# Pedro Corsini
+
+Computer Engineering student at UNIFEI
 
 </div>
 
 ---
 
-## 📊 GitHub Stats  
+## 👋 About me
+
+- 🎓 Computer Engineering student at **Federal University of Itajubá (UNIFEI)**
+- 🐝 Former member of [Black Bee Drones](https://www.instagram.com/blackbeedrones), UNIFEI's autonomous drone team
+- 🤖 Passionate about technology, robotics and embedded systems
+- 🌎 Cambridge B2 certified in English
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-[![Pedro's GitHub stats](https://readme-stats-six-ivory-52.vercel.app/api?username=pedrocorsini&show_icons=true&theme=tokyonight)](https://github.com/pedrocorsini)  
-[![Top Langs](https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=pedrocorsini&layout=compact&theme=tokyonight)](https://github.com/pedrocorsini)
+
+**Languages**
+
+[![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
+
+**Frameworks and Libraries**
+
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+
+**Tools and Hardware**
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!  
+## 📊 GitHub Stats
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/corsiniz__) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/pedrocorsini) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedrocorsini013@gmail.com)  
+<div align="center">
+
+[![Pedro's GitHub stats](https://readme-stats-six-ivory-52.vercel.app/api?username=pedrocorsini&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/pedrocorsini)
+[![Top Langs](https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=pedrocorsini&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pedrocorsini)
+
+</div>
 
 ---
 
-✨ *"Be smart, do it autonomously!"*  
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedrocorsini)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/corsiniz__)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrocorsini013@gmail.com)
+
+*"Be smart, do it autonomously!"*
+
+</div>
